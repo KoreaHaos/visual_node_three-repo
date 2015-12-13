@@ -84,7 +84,8 @@ function broadcast(event, data) {
 function passWordToDisplay(stringToPass) {
   console.log("passWordToDisplay() called, stringToPass = " + stringToPass);
   var fileWrityThingy = require('fs');
-  fileWrityThingy.writeFile("/home/ubuntu/workspace/client/processing/data/test1.txt", "Hey there!", function(err) {
+  var os = require("os");
+  fileWrityThingy.appendFile("/home/ubuntu/workspace/client/processing/data/test1.txt", (stringToPass+ os.EOL), function(err) {
     if(err) {
         return console.log(err);
     }

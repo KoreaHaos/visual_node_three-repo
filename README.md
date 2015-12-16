@@ -18,4 +18,4 @@
 * JS
 * *Whatever else i can toss in the mix! (loving' it!)*
 
-[wanna play?](http://koreahaos.github.io/haos_toys/ "Some Tots! (NOT THE VISUAL NODE!!))
+[wanna play?](http://koreahaos.github.io/haos_toys/ "Some ToYs! /(NOT THE VISUAL NODE!!/))

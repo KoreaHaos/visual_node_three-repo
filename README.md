@@ -18,4 +18,4 @@
 * JS
 * *Whatever else i can toss in the mix! (loving' it!)*
 
-[wanna play?](http://seedbreeders.net/wp-content/uploads/2013/02/seedbreeders_stay-tuned.jpg)
+[wanna play?](http://koreahaos.github.io/haos_toys/ "Some Tots! (NOT THE VISUAL NODE!!))
